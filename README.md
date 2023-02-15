@@ -1,7 +1,7 @@
 Hi 👋 My name is George
 =======================
 
-Multimedia design student specialized in front-end development and passionate about all things web dev.
+Front-end developer with a background in multimedia design and passionate about all things web dev.
 * 🌍  I'm based in Copenhagen
 * 🖥️  See my portfolio at [georgendesign.com](http://georgendesign.com/)
 * ✉️  You can contact me at [georgenico9@gmail.com](mailto:georgenico9@gmail.com)
